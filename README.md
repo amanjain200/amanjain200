@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header" align="center">  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
 </div>
 
 
@@ -28,6 +28,7 @@
 
 ![](https://komarev.com/ghpvc/?username=amanjain200&base=900&style=flat-square)
 
+
 <h1>
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -36,6 +37,7 @@
 
 ### :man_technologist: About Me :
 Currently pursuing B.Tech in Computer Science and Engineering(2021-2025) from NIT Raipur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpuZjBkeXhmdjQyaXNjaXN2bjcyMWNudjk2cjg3ZTg5Mmg1Z2xiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="200" align="right" />
 - :telescope: I’m an aspiring Software Engineer.
 
 - :seedling: I love building cool stuffs as a developer.

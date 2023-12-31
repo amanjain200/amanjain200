@@ -58,7 +58,8 @@ Currently pursuing B.Tech in Computer Science and Engineering(2021-2025) from NI
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind-CSS" alt="Tailwind CSS" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;

@@ -60,7 +60,6 @@ Currently pursuing B.Tech in Computer Science and Engineering(2021-2025) from NI
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind-CSS" alt="Tailwind CSS" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
@@ -68,7 +67,6 @@ Currently pursuing B.Tech in Computer Science and Engineering(2021-2025) from NI
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" style="width: 65px; height: 65px; margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" style="width: 65px; height: 65px; margin: 5px;"/>
 </div>
 

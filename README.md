@@ -42,7 +42,7 @@ Currently pursuing B.Tech in Computer Science and Engineering(2021-2025) from NI
 
 - :seedling: I love building cool stuffs as a developer.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks & Leetcode and read engineering blogs.
+- :zap: In my free time, I solve problems on Leetcode & GeeksforGeeks and read engineering blogs.
 
 - :mailbox:How to reach me: amanjain189200@gmail.com
 

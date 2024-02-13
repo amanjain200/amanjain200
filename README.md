@@ -17,7 +17,7 @@
     <a href="https://www.codechef.com/users/amanjain189200">
     <img src="https://img.shields.io/badge/codechef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
   </a>
-    <a href="your-protfolio-URL">
+    <a href="https://www.amancodes.tech/">
     <img src="https://img.shields.io/badge/Protfolio-red?style=for-the-badge&logo=www&logoColor=white" alt="Protfolio Badge"/>
   </a>
     <a href="https://www.youtube.com/channel/UC9-p1XyXbpa70xSMhDYqFyg">
